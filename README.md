@@ -93,15 +93,14 @@ We will create a Conda environment to isolate project dependencies. We'll name i
 
 *   **Linux/macOS (bash/zsh):**
     ```bash
-    conda create -n deep_image_analyzer python=3.9 -y
+    conda create -n deep_image_analyzer python=3.10 -y
     conda activate deep_image_analyzer
     ```
 *   **Windows (Anaconda Prompt or PowerShell with Conda initialized):**
     ```powershell
-    conda create -n deep_image_analyzer python=3.9 -y
+    conda create -n deep_image_analyzer python=3.10 -y
     conda activate deep_image_analyzer
     ```
-*(You can choose Python 3.8, 3.9, or 3.10; 3.9 is a good balance.)*
 
 ### 3. Install PyTorch with CUDA (Recommended) or CPU
 
