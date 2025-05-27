@@ -27,9 +27,9 @@ The core idea is to go beyond single-object detection/description and provide a 
 *(Optional: Consider embedding a small, illustrative example image here showing the annotated output from one of your scripts. For instance, an image with a few D1, D2, D3 boxes and points, demonstrating the multi-point analysis.)*
 
 **Example of an annotated output image:**
-```
-![Example Analysis Output](example_screenshot.PNG)
-```
+
+![example_screenshot](https://github.com/user-attachments/assets/4d1f1965-b383-4270-8179-8377f4074611)
+
 here is one part of the output:
 
 This image would show several highlighted regions (D1, D2, etc.) with corresponding detailed descriptions available in the generated text report. This showcases the enhanced perceptual detail achieved.
