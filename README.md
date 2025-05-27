@@ -28,9 +28,29 @@ The core idea is to go beyond single-object detection/description and provide a 
 
 **Example of an annotated output image:**
 ```
-[Placeholder for an example image like your_image_visualization.png]
+![Example Analysis Output](example_screenshot.PNG)
 ```
+here is one part of the output:
+
 This image would show several highlighted regions (D1, D2, etc.) with corresponding detailed descriptions available in the generated text report. This showcases the enhanced perceptual detail achieved.
+
+here is an extract:
+--- Item 66 (Source: contour) ---
+  Point of Interest: (397, 356)
+  Bounding Box (x1,y1,x2,y2): [395, 304, 488, 359]
+  Description:
+    Here's a detailed description of the objects highlighted in the image:
+    
+    **Overall:** The image shows a selection of items, likely potions and equipment, from a fantasy role-playing game (likely Warcraft III). They are displayed within square frames set against a wooden background with vines. 
+    
+    **Individual Items (from top left to bottom right):**
+    
+    1.  **Scroll:** A rolled parchment tied with ribbon. It appears to be a scroll of some kind, likely containing a spell or magical effect.
+    2.  **Potion/Food:** An item that looks like a piece of cooked meat, possibly a healing potion or food item for restoring health. It has a reddish-orange color and is slightly curved. 
+    3.  **Amulet/Necklace:** A silver amulet with a green gem in the center. The design suggests it could be an amulet providing protection or magical benefits.
+    4. **Green Potion:** A bright green potion contained within a glass bottle, likely indicating a healing or mana restoring effect. 
+    5.  **Healing Potion/Flask:** A flask containing a glowing teal liquid, probably another type of healing potion or a potion with a special effect.
+    6.  **Unknown Item:** The last
 
 ## Use Cases
 
