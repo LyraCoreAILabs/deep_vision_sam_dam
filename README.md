@@ -142,6 +142,7 @@ Once PyTorch is installed, install the remaining dependencies using the provided
 ```bash
 # Linux/macOS or Windows
 pip install -r requirements.txt
+pip install git+https://github.com/NVlabs/describe-anything
 ```
 This file includes dependencies for SAM2 (assuming it's vendored), DAM, Transformers, OpenCV, etc.
 
