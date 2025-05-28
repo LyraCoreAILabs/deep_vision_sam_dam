@@ -1,0 +1,26 @@
+# Core PyTorch and computer vision
+torch>=2.0.0
+torchvision
+sam2
+numpy>=1.23.5,<2.0.0
+Pillow>=9.4.0
+opencv-python
+
+# Transformers and related NLP/tokenization
+transformers>=4.41.2
+tokenizers>=0.19.1
+sentencepiece
+accelerate>=0.28.0
+
+# DAM project dependencies (some might be for DAM's broader features/demos)
+pydantic>=2.10.1,<=2.10.6
+requests
+httpx
+uvicorn
+fastapi
+protobuf
+gradio>=5.5.0
+openai>=1.55.0
+
+# Other utilities
+# (No others explicitly identified beyond the above)
