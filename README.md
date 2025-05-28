@@ -172,7 +172,7 @@ Create the following directory structure in your project's root and place the do
 ├── checkpoints/
 │   └── sam2.1_hiera_large.pt    <-- Place .pt weights file here
 ├── sam2/                          <-- Your vendored SAM2 library code
-├── dam.py                         <-- Your DAM utility script
+├── depth_anything_v2/
 ├── deep_gguf_sam2_contour_centroid.py
 ├── deep_dam_sam2_contour.py
 ├── deep_dam_sam2.py
